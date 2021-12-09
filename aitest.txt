@@ -1,1 +1,4 @@
 전공별 ai 활용
+add
+commit
+push
